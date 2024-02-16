@@ -1,4 +1,4 @@
-namespace Inventor.SeedWorks;
+namespace CrazyVillage.Inventor.SeedWorks;
 
 public class Summary
 {

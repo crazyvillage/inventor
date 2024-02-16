@@ -1,6 +1,6 @@
-using Inventor.SeedWorks;
+using CrazyVillage.Inventor.SeedWorks;
 
-namespace Inventor.API.Application.Views;
+namespace CrazyVillage.Inventor.API.Application.Views;
 
 public class PhaseSummary : Summary
 {

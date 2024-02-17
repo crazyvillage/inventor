@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
-using Inventor.API.Application.Views;
+using CrazyVillage.Inventor.API.Application.Views;
 
-namespace Inventor.API.Controllers;
+namespace CrazyVillage.Inventor.API.Controllers;
 
 [ApiController]
 [Route("phase")]

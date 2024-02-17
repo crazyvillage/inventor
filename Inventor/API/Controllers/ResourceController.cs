@@ -4,12 +4,12 @@ using CrazyVillage.Inventor.API.Application.Views;
 namespace CrazyVillage.Inventor.API.Controllers;
 
 [ApiController]
-[Route("game")]
-public class GameController : ControllerBase
+[Route("resource")]
+public class ResourceController : ControllerBase
 {
     [HttpGet]
-    public List<GameSummary> ListGames()
+    public List<ResourceSummary> ListResources()
     {
-        return new List<GameSummary>();
+        return new List<ResourceSummary>();
     }
 }
